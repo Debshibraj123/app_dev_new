@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "appdev-new-2",
+    "slug": "appdev-new-2"
+  }
+}
